@@ -4,8 +4,7 @@
 
 I would like to express my sincere gratitude to [JetBrains](https://www.jetbrains.com/) for generously providing me with a complimentary license for their exceptional IDEs. JetBrains has been an invaluable partner in my development journey, and I wholeheartedly recommend their tools to all fellow developers.
 
-[![JetBrains](https://www.amrutsoftware.com/wp-content/uploads/2021/07/logo_JetBrains_v3.svg)](https://www.jetbrains.com/)
-
+<img src="https://www.amrutsoftware.com/wp-content/uploads/2021/07/logo_JetBrains_v3.svg" width="200" height="100" alt="JetBrains">
 
 ## xsurls
 Free url shortener written on Flask (Python)
