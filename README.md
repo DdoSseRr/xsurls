@@ -1,6 +1,15 @@
+# Acknowledgements
+
+I would like to express my sincere gratitude to
+
+<img src="https://www.amrutsoftware.com/wp-content/uploads/2021/07/logo_JetBrains_v3.svg" width="200" height="100" alt="JetBrains">
+
+[JetBrains](https://www.jetbrains.com/) for generously providing me with a complimentary license for their exceptional IDEs. [JetBrains](https://www.jetbrains.com/) has been an invaluable partner in my development journey, and I wholeheartedly recommend their tools to all fellow developers.
+
+
 # xsurls
 
-Decided to completely rewrite the backend on fastapi
+Decided to completely rewrite the backend on FastAPI
 
 ## TODO List
 - [x] Rewrite the backend to fastapi
