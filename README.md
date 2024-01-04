@@ -1,4 +1,8 @@
-# Acknowledgements
+## This project is sponsored by Browserstack.
+
+
+
+## Acknowledgements
 
 I would like to express my sincere gratitude to
 
@@ -11,27 +15,25 @@ ___
 [BrowserStack](https://www.browserstack.com/open-source) for their sponsorship in this project. They helped me take a fresh look at the project. So I will upgrade it as soon as possible.
 
 
-This project is sponsored by Browserstack.
-
 <img src="https://d2ogrdw2mh0rsl.cloudfront.net/production/images/static/header/header-logo.svg" width="200" height="100" alt="This project is sponsored by Browserstack.">
 
 
 
 ----
 
-# xsurls
+## xsurls
 
 Decided to completely rewrite the backend on FastAPI
 
 ## TODO List
-- [x] Rewrite the backend to fastapi
+- [x] Rewrite the backend to FastApi
 - [x] Add a async orm
 - [x] Add a async database driver (asyncpg)
-- [ ] Optimize the code
+- [x] Optimize the code
 - [ ] Fix bugs
 - [ ] Add a frontend
-- [ ] Add a api documentation
-- [ ] Add a dockerfile
+- [x] Add a api documentation
+- [x] Add a dockerfile
 - [ ] Add a docker-compose file
 
 
