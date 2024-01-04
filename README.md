@@ -28,5 +28,8 @@ Decided to completely rewrite the backend on FastAPI
 
 
 
-## I would also like to thank BrowserStask for their sponsorship in this project. They helped me take a fresh look at the project. So I will upgrade it as soon as possible
-## This project is sponsored **by Browserstack.**
+I would also like to thank BrowserStask for their sponsorship in this project. They helped me take a fresh look at the project. So I will upgrade it as soon as possible
+
+
+
+### This project is sponsored **by Browserstack.**
